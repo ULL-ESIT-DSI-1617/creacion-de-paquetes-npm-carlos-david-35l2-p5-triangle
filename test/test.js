@@ -1,7 +1,7 @@
 'use strict'
 
 let Triangle = require("../lib/triangle");
-//let Shape = require('@ull-carlos-david/ull-shape');
+let Shape = require('@ull-carlos-david/ull-shape');
 
 describe("getArea Triangle", function() {
   it("Se calcula el area del triangulo correctamente", function() {
